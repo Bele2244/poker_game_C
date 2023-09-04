@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# poker_game_C
-=======
 # poker_game
 
 ## Description
@@ -65,4 +62,3 @@ Do you want to play again?
 ## Contributing
 
 Pull requests are wellcome!
->>>>>>> 4bbeaa6 (ready for push)
