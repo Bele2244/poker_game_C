@@ -1,7 +1,7 @@
 # poker_game
 
 ## Description
-This program plays draw poker.Users can play  as often they want, betting between 1 and 5.  
+This program plays draw poker.Users can play as often they want, betting between 1 and 5.  
 They are dealt 5 cards and then get to chose which cards to keep,  
 and which cards to replace.  The new hand is then reviewed and the   
 user's payout is set based on the value of the hand. The user's new  
