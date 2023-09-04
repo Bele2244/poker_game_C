@@ -16,7 +16,7 @@ bankroll is displayed as they are given the option to continue.
 
 
 ## Instalation
-1.Clone the repo
+1.Clone the repo\n
 -- "git clone git@github.com:Bele2244/poker_game_C.git"
 2.Compile the program using a C compiler
 -- gcc main.c -o program
