@@ -1,12 +1,12 @@
 # poker_game
 
 ## Description
-
-This program allows users to input commands
-via the command line and play game of poker.
-User starts with 100 credits and can view the 
-cards dealt, discard cards if want and bet the 
-credit.
+This program plays draw poker. Users can play
+as often they want, betting between 1 and 5. They
+are dealt 5 cards and then get to chose which cards to keep,
+and which cards to replace. The new hand is then reviewed and the 
+user's payout is set based on the value of the hand. The user's new
+bankroll is displayed as they are given the option to continue.
 
 ## Features
 -Accepts input via the command line interface.
